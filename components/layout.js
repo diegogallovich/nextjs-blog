@@ -49,7 +49,7 @@ export default function Layout({
           name='twitter:card'
           content='summary_large_image'
         />
-        <title>Default title</title>
+        <title>Hello pull request</title>
       </Head>
       {/*//* header */}
       <header className={styles.header}>
