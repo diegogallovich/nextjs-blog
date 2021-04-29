@@ -1,0 +1,21 @@
+/*
+To use this container class inside components/layout.js, you need to:
+
+Import the CSS file and assign a name to it, like styles
+Use styles.container as the className 
+*/
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
