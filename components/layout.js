@@ -47,7 +47,7 @@ export default function Layout({
         />
         <meta
           name='twitter:card'
-          content='summary_large_image'
+          content='summary'
         />
         <title>Hello pull request</title>
       </Head>
